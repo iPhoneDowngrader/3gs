@@ -34,4 +34,4 @@ Steps:
     <br/>Text me @ +1 612 469-7455
     <br/>Email me iPG1101@outlook.com
     
-  <br/><br/><br/>Download links: https://drive.google.com/drive/folders/0Bx2X3o1VIqhEUzF6blRiVEgtVk0 (uploading more for the next week)
+  <br/><br/><br/>Download links: https://drive.google.com/drive/folders/0Bx2X3o1VIqhEUzF6blRiVEgtVk0?usp=sharing (uploading more for the next week)
