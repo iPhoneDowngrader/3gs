@@ -17,21 +17,21 @@ Requirements (X.Y.Z = firmware version):
 
 <br/><br/>
 Steps:
-  1) Enter Pwned DFU
-  2) Restore to the 24Kpwn ipsw (this works on new bootrom 3G[S], don't worry)<br/>
-  -_STOP IF YOU HAVE OLD BOOTROM, NEW BOOTROM KEEP GOING_-
+  1) Enter Pwned DFU<br/>
+  2) Restore to the 24Kpwn ipsw (this works on new bootrom 3G[S], don't worry)<br/><br/>
+  -_STOP IF YOU HAVE OLD BOOTROM, NEW BOOTROM KEEP GOING_-<br/><br/>
   3) Switch to linux PC (LiveUSB: click <a href='#LiveUSB'>here</a> to learn how to get to Linux if you do not know)
-  4) Download iPwnDFU (https://github.com/axi0mX/ipwndfu#open-source-jailbreaking-tool-for-older-ios-devices) and extract it
-  5) Put iOS 4.3.5 IBSS in the iPwnDFU folder
-  6) Open a terminal emulator (Konsole, Terminal, etc.)
-  7) Open the iPwnDFU folder (cd [Path])
-  8) ./ipwndfu -p    - Enter Pwned DFU
-  9) ./ipwndfu -x    - Flash NOR
-  10) redsn0w > Just Boot if it does not autoboot
-  <br/>DONE!<br/>
+  <br/>4) Download iPwnDFU (https://github.com/axi0mX/ipwndfu#open-source-jailbreaking-tool-for-older-ios-devices) and extract it
+  <br/>5) Put iOS 4.3.5 IBSS in the iPwnDFU folder
+  <br/>6) Open a terminal emulator (Konsole, Terminal, etc.)
+  <br/>7) Open the iPwnDFU folder (cd [Path])
+  <br/>8) ./ipwndfu -p    - Enter Pwned DFU
+  <br/>9) ./ipwndfu -x    - Flash NOR
+  <br/>10) redsn0w > Just Boot if it does not autoboot
+  <br/><br/>DONE!<br/>
   
-  If you have issues: 
-    Text me @ +1 612 469-7455
-    Email me iPG1101@outlook.com
+  <br/><br/><br/>If you have issues: 
+    <br/>Text me @ +1 612 469-7455
+    <br/>Email me iPG1101@outlook.com
     
-  <br/><br/>Download links: uploading...
+  <br/><br/><br/>Download links: https://drive.google.com/drive/folders/0Bx2X3o1VIqhEUzF6blRiVEgtVk0 (uploading more for the next week)
