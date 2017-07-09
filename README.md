@@ -1,4 +1,9 @@
 # iPhone 3G[S] Untethered Downgrade
+<!--
+<a href="http://www.reliablecounter.com" target="_blank"><img src="http://www.reliablecounter.com/count.php?page=https://iphonedowngrader.github.io/3gs/&digit=style/plain/6/&reloads=0" alt="" title="" border="0"></a><br /><a href="http://" target="_blank" style="font-family: Geneva, Arial; font-size: 9px; color: #330010; text-decoration: none;"></a>
+Haha no need to link to them now, there bot will see that!
+-->
+<img src="http://www.reliablecounter.com/count.php?page=https://iphonedowngrader.github.io/3gs/&digit=style/plain/6/&reloads=0" alt="" title="" border="0">
 <br/>
 I am going to make a tutorial how to downgrade 3G[S] (both new and old bootrom) to any iOS version. This ONLY works on 3G[S], not iPod touch or iPad.
 <br/>
